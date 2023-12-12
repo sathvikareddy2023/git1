@@ -6,6 +6,8 @@ printf("addition");
 sub(
 printf("substarction");
 );
-mul();
+mul(
+prntf("multiplication");
+);
 div();
 }
