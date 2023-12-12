@@ -4,6 +4,8 @@ add(
 printf("addition");
 );
 sub();
-mul();
+mul(
+prntf("multiplication");
+);
 div();
 }
