@@ -3,7 +3,9 @@
 add(
 printf("addition");
 );
-sub();
+sub(
+printf("substarction");
+);
 mul(
 prntf("multiplication");
 );
